@@ -5,6 +5,6 @@ public class Main {
      * Demo for the Git lab on Software Engineering
      */
         public static void main(String[] args) {
-            System.out.println("Animal git demo");
+            System.out.println("Super Animal git demo");
         }
     }
